@@ -102,14 +102,96 @@ Follow the steps below to set up and run the project on your machine.
 ## APK you can download the Application 
  - link : https://drive.google.com/file/d/1_PO1JjN0sbqUsO0m9QWIecttlgky64bW/view?usp=drive_link
 
-## 📥 Installation
+# 📥 Installation
 
-### 1. Clone the repository:
+### **1. Clone the Repository**
 
 ```bash
 git clone https://github.com/your-username/ntc_library.git
 cd ntc_library
-#
+```
 
+---
 
+### **2. Install Packages**
+
+```bash
+flutter pub get
+```
+
+---
+
+### **3. Firebase Configuration (If required)**
+
+If your app uses Firebase:
+
+1. Download `google-services.json` from Firebase Console  
+2. Place it here:
+
+```
+android/app/google-services.json
+```
+
+Optional CLI setup:
+
+```bash
+dart pub global activate flutterfire_cli
+flutterfire configure
+```
+
+---
+
+### **4. Check for Issues**
+
+```bash
+flutter doctor
+```
+
+---
+
+# ▶️ Running the Application
+
+## **Option A — Run on Android Emulator**
+
+1. Start your emulator from Android Studio  
+2. Run:
+
+```bash
+flutter run
+```
+
+---
+
+## **Option B — Run on Physical Android Device**
+
+```bash
+flutter devices
+flutter run
+```
+
+---
+
+## **Option C — Run from VS Code**
+
+1. Open the project folder  
+2. Select a device (bottom-right)  
+3. Press:
+
+```
+F5
+```
+
+---
+
+## **Option D — Run from Android Studio**
+
+1. Open the project  
+2. Select device/emulator  
+3. Press **Run ▶️**
+
+---
+
+# 🎉 You're Done!
+
+The NTC Library Mobile App should now launch on your emulator or physical device.
 
