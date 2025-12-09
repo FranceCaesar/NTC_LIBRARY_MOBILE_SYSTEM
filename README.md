@@ -2,6 +2,13 @@
 
 **Student Name:** France Jefferson Sulibio  
 **Student ID:** 422000391  
+
+**Student Name:** Orias, Christian B.  
+**Student ID:** 422000350  
+
+**Student Name:** Elmido, Thea D.  
+**Student ID:** 423000602  
+
 **Course Code:** PC16  
 
 ---
@@ -100,3 +107,4 @@ Follow the steps below to set up and run the project on your machine.
 git clone https://github.com/your-username/ntc_library.git
 cd ntc_library
 #
+
