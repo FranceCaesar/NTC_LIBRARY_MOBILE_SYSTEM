@@ -91,6 +91,8 @@ Follow the steps below to set up and run the project on your machine.
 ## APK you can download the Application 
  - link : https://drive.google.com/file/d/1_PO1JjN0sbqUsO0m9QWIecttlgky64bW/view?usp=drive_link
 
+---
+
 # 📥 Installation
 
 ### **1. Clone the Repository**
@@ -186,7 +188,7 @@ The NTC Library Mobile App should now launch on your emulator or physical device
 
 ---
 ## TEAM MEMEBRS
-**Student Name:** France Jefferson Sulibio(Leader)
+**Student Name:** France Jefferson Sulibio(Leader).
 **Student ID:** 422000391  
 
 **Student Name:** Orias, Christian B.  
@@ -196,6 +198,7 @@ The NTC Library Mobile App should now launch on your emulator or physical device
 **Student ID:** 423000602  
 
 Course Code:** PC16  
+
 
 
 
