@@ -193,7 +193,8 @@ The NTC Library Mobile App should now launch on your emulator or physical device
 **Student Name:** Orias, Christian B. | 422000350  
 **Student Name:** Elmido, Thea D. | 423000602  
 
-Course Code:** PC16  
+Course Code: PC16  
+
 
 
 
