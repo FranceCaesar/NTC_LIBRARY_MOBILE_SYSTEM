@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921639564558",
+    "project_id": "ntclibrary-602d1",
+    "storage_bucket": "ntclibrary-602d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921639564558:android:173a6178b969530c3f935f",
+        "android_client_info": {
+          "package_name": "com.example.ntc_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYPqqmnerYhYe-AeWJy49bzGbNwi4vt34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+name: ntc_library
+
+description: "The official mobile application for NTC library mannagement system"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: 6.3.2
+  firebase_core: ^4.2.1
+  firebase_auth: ^6.1.2
+  cloud_firestore: ^6.1.0
+  qr_flutter: ^4.1.0
+  csv: ^6.0.0
+  intl: ^0.19.0 
+  shared_preferences: ^2.1.1
+  fluttertoast: ^8.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "images/NTC_LOGO.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
