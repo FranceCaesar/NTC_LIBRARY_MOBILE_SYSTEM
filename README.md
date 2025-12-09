@@ -188,7 +188,8 @@ The NTC Library Mobile App should now launch on your emulator or physical device
 
 ---
 ## TEAM MEMEBRS
-**Student Name:** France Jefferson Sulibio(Leader).
+
+**Student Name:** France Jefferson Sulibio
 **Student ID:** 422000391  
 
 **Student Name:** Orias, Christian B.  
@@ -198,6 +199,7 @@ The NTC Library Mobile App should now launch on your emulator or physical device
 **Student ID:** 423000602  
 
 Course Code:** PC16  
+
 
 
 
