@@ -11,6 +11,7 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
+serviceAccountKey
 
 # IntelliJ related
 *.iml
@@ -43,3 +44,19 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Firebase & Google Cloud keys
+*.json
+serviceAccountKey.json
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Flutter build
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE files
+.idea/
+.vscode/
+android/.gradle/
