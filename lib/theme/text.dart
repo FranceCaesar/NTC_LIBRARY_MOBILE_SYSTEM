@@ -29,7 +29,7 @@ class AppTypography {
       // Headline Styles
       headlineLarge: GoogleFonts.robotoSerif(
         fontSize: 36,
-        fontWeight: FontWeight.w600, // SemiBold
+        fontWeight: FontWeight.w700, // SemiBold
         color: AppColors.primaryText,
       ),
       headlineMedium: GoogleFonts.robotoSerif( // Note: Roboto Serif
