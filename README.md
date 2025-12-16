@@ -25,17 +25,10 @@ The goal is to eliminate physical queues, manual inquiries, and outdated process
 
 | FlutterFlow Prototype | Native Flutter Implementation |
 |----------------------|------------------------------|
-<<<<<<< HEAD
-| ![Prototype Screenshot](images/FlutterFlow (1).png) | ![Native App Screenshot](FlutterNative (1).png) |
-| ![Prototype Screenshot](images/FlutterFlow (3).png) | ![Native App Screenshot](FlutterNative (3).png) |
-| ![Prototype Screenshot](images/FlutterFlow (2).png) | ![Native App Screenshot](FlutterNative (2).png) |
-| ![Prototype Screenshot](images/FlutterFlow (4).png) | ![Native App Screenshot](FlutterNative (4).png) |
-=======
 | ![Prototype Screenshot](images/FlutterFlow_(1).png) | ![Native App Screenshot](FlutterNative_(1).png) |
 | ![Prototype Screenshot](images/FlutterFlow_(3).png) | ![Native App Screenshot](FlutterNative_(3).png) |
 | ![Prototype Screenshot](images/FlutterFlow_(2).png) | ![Native App Screenshot](FlutterNative_(2).png) |
 | ![Prototype Screenshot](images/FlutterFlow_(4).png) | ![Native App Screenshot](FlutterNative_(4).png) |
->>>>>>> b941cd36f672dd4a91384d8843b500093a7e74bf
 
 
 ## 🚀 Features
