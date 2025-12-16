@@ -31,16 +31,6 @@ The goal is to eliminate physical queues, manual inquiries, and outdated process
 | ![Prototype Screenshot](images/FlutterFlow(4)) | ![Native App Screenshot](FlutterNative(4)) |
 
 
-### FlutterFlow Prototype
-
-*(Insert image/GIF here)*
-
-### Native Flutter Implementation
-
-*(Insert image/GIF here)*
-
----
-
 ## 🚀 Features
 
 This application includes the following core features:
@@ -197,6 +187,7 @@ The NTC Library Mobile App should now launch on your emulator or physical device
 **Student Name:** Elmido, Thea D. | 423000602  
 
 Course Code: PC16  
+
 
 
 
