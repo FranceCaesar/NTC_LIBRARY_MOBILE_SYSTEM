@@ -25,7 +25,10 @@ The goal is to eliminate physical queues, manual inquiries, and outdated process
 
 | FlutterFlow Prototype | Native Flutter Implementation |
 |----------------------|------------------------------|
-| ![Prototype Screenshot](assets/screenshots/prototype.png) | ![Native App Screenshot](assets/screenshots/native.png) |
+| ![Prototype Screenshot](images/FlutterFlow(1)) | ![Native App Screenshot](FlutterNative(1)) |
+| ![Prototype Screenshot](images/FlutterFlow(3)) | ![Native App Screenshot](FlutterNative(3)) |
+| ![Prototype Screenshot](images/FlutterFlow(2)) | ![Native App Screenshot](FlutterNative(2)) |
+| ![Prototype Screenshot](images/FlutterFlow(4)) | ![Native App Screenshot](FlutterNative(4)) |
 
 
 ### FlutterFlow Prototype
@@ -194,6 +197,7 @@ The NTC Library Mobile App should now launch on your emulator or physical device
 **Student Name:** Elmido, Thea D. | 423000602  
 
 Course Code: PC16  
+
 
 
 
