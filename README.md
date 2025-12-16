@@ -25,10 +25,10 @@ The goal is to eliminate physical queues, manual inquiries, and outdated process
 
 | FlutterFlow Prototype | Native Flutter Implementation |
 |----------------------|------------------------------|
-| ![Prototype Screenshot](images/FlutterFlow(1)) | ![Native App Screenshot](FlutterNative(1)) |
-| ![Prototype Screenshot](images/FlutterFlow(3)) | ![Native App Screenshot](FlutterNative(3)) |
-| ![Prototype Screenshot](images/FlutterFlow(2)) | ![Native App Screenshot](FlutterNative(2)) |
-| ![Prototype Screenshot](images/FlutterFlow(4)) | ![Native App Screenshot](FlutterNative(4)) |
+| ![Prototype Screenshot](<img width="233" height="497" alt="FlutterFlow (1)" src="https://github.com/user-attachments/assets/e4e1f883-0dd1-4764-ac20-736396f8322d" />) | ![Native App Screenshot](<img width="223" height="487" alt="FlutterNative (1)" src="https://github.com/user-attachments/assets/389473ce-5e1a-4b72-a8d4-0410294e2093" />)) |
+| ![Prototype Screenshot](<img width="222" height="471" alt="FlutterFlow (3)" src="https://github.com/user-attachments/assets/4c925837-858b-4c6d-a920-62c4fb471650" />) | ![Native App Screenshot](<img width="215" height="463" alt="FlutterNative (3)" src="https://github.com/user-attachments/assets/5b378a91-360e-4f0a-9f85-7e3728d38c7b" />) |
+| ![Prototype Screenshot](<img width="219" height="542" alt="FlutterFlow (2)" src="https://github.com/user-attachments/assets/a152e62d-31ab-4bce-9e1c-87070424af9f" />) | ![Native App Screenshot](<img width="238" height="528" alt="FlutterNative (2)" src="https://github.com/user-attachments/assets/f82663d4-7014-4264-8e76-bc9e46245ca4" />) |
+| ![Prototype Screenshot](<img width="245" height="556" alt="FlutterFlow (4)" src="https://github.com/user-attachments/assets/15ef292e-4875-424f-abee-473ccb5b935d" />) | ![Native App Screenshot](<img width="246" height="554" alt="FlutterNative (4)" src="https://github.com/user-attachments/assets/103f522e-c33b-4fdb-baa1-849db68fed34" />) |
 
 
 ## 🚀 Features
