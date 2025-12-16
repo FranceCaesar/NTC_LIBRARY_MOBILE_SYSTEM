@@ -29,12 +29,10 @@ The goal is to eliminate physical queues, manual inquiries, and outdated process
 | ![Prototype Screenshot](images/FlutterFlow_(3).png) | ![Native App Screenshot](images/FlutterNative_(3).png) |
 | ![Prototype Screenshot](images/FlutterFlow_(2).png) | ![Native App Screenshot](images/FlutterNative_(2).png) |
 | ![Prototype Screenshot](images/FlutterFlow_(4).png) | ![Native App Screenshot](images/FlutterNative_(4).png) |
-<<<<<<< HEAD
 | ![Prototype Screenshot](images/FlutterFlow_(5).png) | ![Native App Screenshot](images/FlutterNative_(7).png) |
 | ![Prototype Screenshot](images/FlutterFlow_(6).png) | ![Native App Screenshot](images/FlutterNative_(6).png) |
 | ![Prototype Screenshot](images/FlutterFlow_(7).png) | ![Native App Screenshot](images/FlutterNative_(5).png) |
-=======
->>>>>>> 17ea2737ba370ae956e8f2f1170f32b54bbfd080
+
 
 
 ## 🚀 Features
