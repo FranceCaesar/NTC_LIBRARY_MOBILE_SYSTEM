@@ -11,18 +11,12 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
-serviceAccountKey
 
 # IntelliJ related
 *.iml
 *.ipr
 *.iws
 .idea/
-
-# The .vscode folder contains launch configuration and tasks you configure in
-# VS Code which you may wish to be included in version control, so this line
-# is commented out by default.
-#.vscode/
 
 # Flutter/Dart/Pub related
 **/doc/api/
@@ -34,29 +28,75 @@ serviceAccountKey
 /build/
 /coverage/
 
-# Symbolication related
-app.*.symbols
+# Generated plugin registrant
+lib/generated_plugin_registrant.dart
 
-# Obfuscation related
-app.*.map.json
+# Android related
+**/android/**/gradle-wrapper.jar
+**/android/.gradle/
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/key.properties
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
 
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
+# iOS related
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Flutter.podspec.json
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Runner.xcworkspace/
+**/ios/Runner.xcodeproj/project.xcworkspace/
+**/ios/build/
+**/ios/Runner/Assets.xcassets/LaunchImage.imageset/*
 
-# Firebase & Google Cloud keys
-*.json
-serviceAccountKey.json
-android/app/google-services.json
-ios/Runner/GoogleService-Info.plist
+# macOS
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+**/macos/build/
+**/macos/Runner/GeneratedPluginRegistrant.swift
 
-# Flutter build
-build/
+# Windows
+**/windows/flutter/ephemeral/
+
+# Linux
+**/linux/flutter/ephemeral/
+
+# Web
+**/web/.dart_tool/
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+*.old
+*.orig
+*.rej
+
+# Crashlytics
+**/android/app/src/main/crashlytics-build.properties
+
+# Coverage
+coverage/
+
+# Flutter assets that can regenerate
 .flutter-plugins
 .flutter-plugins-dependencies
 
-# IDE files
-.idea/
-.vscode/
-android/.gradle/
+# Symbolication files
+app.*.symbols
+
+# Dart dev tools artifacts
+.dart_tool/
+
+# Logs
+logs/
+*.log
+flutter_export_environment.sh

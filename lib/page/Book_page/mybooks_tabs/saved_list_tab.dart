@@ -50,7 +50,7 @@ class _SavedListTabState extends State<SavedListTab> {
                     )
                   )
                 ),
-                const SizedBox(height: 24),
+                const SizedBox(height: 8),
                 Text(
                   "Create New List", 
                   style: AppTypography.textTheme.headlineSmall?.copyWith(
@@ -252,22 +252,44 @@ class _SavedListTabState extends State<SavedListTab> {
 
         if (docs.isEmpty) {
           return Center(
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                Icon(Icons.library_books_outlined, size: 100, color: AppColors.alternate.withOpacity(0.5)),
-                const SizedBox(height: 20),
-                Text("No saved list", style: AppTypography.textTheme.titleMedium?.copyWith(color: AppColors.primaryText)),
-                const SizedBox(height: 20),
-                ElevatedButton(
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 24),
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Image.asset(
+                    "images/image_logo2.png", // <--- image
+                    height: 180,
+                  ),
+                  const SizedBox(height: 24),
+
+                  Text(
+                    "No Saved Lists Yet",
+                    style: AppTypography.textTheme.titleMedium,
+                  ),
+
+                  const SizedBox(height: 8),
+
+                  Text(
+                    "There are booksplist in your history. Create one, they will appear here.",
+                    textAlign: TextAlign.center,
+                    style: AppTypography.textTheme.bodyMedium?.copyWith(
+                      color: AppColors.secondaryText,
+                    ),
+                  ),
+
+                  const SizedBox(height: 28),
+                  ElevatedButton(
                   onPressed: _showCreateListSheet,
                   style: ElevatedButton.styleFrom(backgroundColor: AppColors.primary),
                   child: const Text("Create", style: TextStyle(color: Colors.white)),
                 ),
-              ],
+                ],
+              ),
             ),
           );
         }
+
 
         return Column(
           children: [
