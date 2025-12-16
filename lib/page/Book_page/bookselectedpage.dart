@@ -1026,4 +1026,8 @@ class _BookDetailsPageState extends State<BookDetailsPage> {
       ),
     );
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7fadf0f4bfeef05b20898a0e55505aec8258dbd0
